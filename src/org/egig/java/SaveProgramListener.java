@@ -1,4 +1,4 @@
-package com.mcreasindo.synop;
+package org.egig.java;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

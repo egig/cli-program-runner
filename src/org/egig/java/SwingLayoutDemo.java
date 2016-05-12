@@ -1,4 +1,4 @@
-package com.mcreasindo.synop;
+package org.egig.java;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

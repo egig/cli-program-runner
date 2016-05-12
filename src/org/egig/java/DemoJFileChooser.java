@@ -1,4 +1,4 @@
-package com.mcreasindo.synop;
+package org.egig.java;
 import javax.swing.*;
 
 import java.awt.event.*;
